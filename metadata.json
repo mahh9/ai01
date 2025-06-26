@@ -1,0 +1,6 @@
+
+{
+  "name": "Geminiテキストアドベンチャー",
+  "description": "AI（GeminiおよびImagen）によって物語とビジュアルが生成されるダイナミックなテキストアドベンチャーゲーム。神秘的な世界を探検し、あなたの旅を形作る選択をしてください。",
+  "requestFramePermissions": []
+}
